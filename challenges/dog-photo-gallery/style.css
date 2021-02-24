@@ -1,0 +1,14 @@
+ul {
+    list-style: none;
+}
+
+#imageContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+img {
+    display: block;
+    max-height: 300px;
+}
